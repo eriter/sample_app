@@ -1,7 +1,10 @@
-== Welcome to Rails
+#Ruby on Rails Tutorial: sample application
 
-Rails is a web-application framework that includes everything needed to create
-database-backed web applications according to the Model-View-Control pattern.
+This is the sample application for
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://rialstutorial.org/)
+by [Michael Hartl] (http://michaelhartl.com/).
+
+
 
 This pattern splits the view (also called the presentation) into "dumb"
 templates that are primarily responsible for inserting pre-built data in between
